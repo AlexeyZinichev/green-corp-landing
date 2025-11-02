@@ -1,0 +1,31 @@
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Локальные файлы редакторов
+.vscode/
+*.swp
+*.swo
+*~
+
+# Кэш и временные файлы
+.cache/
+tmp/
+temp/
+
+# Папки с зависимостями (если будете использовать npm)
+node_modules/
+
+# Сборки
+dist/
+build/
+out/
+
+# Логи
+*.log
+
+# Переменные окружения
+.env
+.env.local
+.env.development
+.env.production
